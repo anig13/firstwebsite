@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+NO:wght@100..400&family=Playwrite+TZ+Guides&family=Playwrite+VN:wght@100..400&display=swap');
+body {
+    font-family: "Playwrite NO", cursive;
+
+}
+
+#mainheading{
+  color: blue;
+  background-color: pink;
+}
+
+#imageb{
+  border-style: solid;
+  border-width: 24px;
+  border-color: blueviolet;
+}
